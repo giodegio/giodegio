@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @giodegio
-- 👀 I’m interested in technology, software development, firmware and hardware
+- 👀 I’m interested in technology, software development, firmware and hardware.
 - 🌱 I’m currently learning BSP creation using the Yocto Build System.
 - 💞️ I’m looking to collaborate on interesting projects!
 - 📫 How to reach me: github (https://github.com/giodegio)
